@@ -1,2 +1,2 @@
 # Hotel-Java-OOP
-Hotel Program developed with Java (OOP)
+Hotel program developed with Java (OOP)
